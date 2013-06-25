@@ -1,0 +1,13 @@
+{
+    "name": "imikay/jbuilder",
+    "description": "JSON builder for PHP",
+    "authors": [
+        {
+            "name": "Mikay Gao",
+            "email": "imikay@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}

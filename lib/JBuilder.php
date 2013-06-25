@@ -1,4 +1,5 @@
 <?php
+namespace imikay;
 
 class JBuilder
 {
@@ -11,7 +12,7 @@ class JBuilder
 		return "$json";
 	}
 
-	public function __construct($object=null)
+	public function __construct($object = null)
 	{
 		$this->_object = $object ? $object : new stdClass();
 	}
