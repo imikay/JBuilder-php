@@ -1,5 +1,5 @@
 <?php
-namespace imikay;
+namespace json\jbuilder;
 
 class JBuilder
 {
